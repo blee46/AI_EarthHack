@@ -1,4 +1,4 @@
-# AI_EarthHack
+# AI Assistant For ESG Business Problems
 
 This is the link for the frontend. 
 
